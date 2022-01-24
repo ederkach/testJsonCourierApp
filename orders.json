@@ -142,7 +142,7 @@
     "restaurantName": "Тестовый ресторан",
     "restaurantCode": "099",
     "comment": null,
-    "commentAddress": null,
+    "commentAddress": "Зателефонувати за 10 хвилин",
     "address": {
       "cityId": "4ae6c993-01d0-4c37-087b-08d7cff7a118",
       "cityName": "Киев",
