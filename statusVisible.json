@@ -1,0 +1,66 @@
+[
+  {
+    "colorStatus": "MediumPurple",
+    "isActive": true,
+    "isReturnStopSheet": true,
+    "isSendToRestaurant": false,
+    "name": "Ожидание",
+    "id": 4
+  },
+  {
+    "colorStatus": "Khaki",
+    "isActive": true,
+    "isReturnStopSheet": true,
+    "isSendToRestaurant": false,
+    "name": "Принят",
+    "id": 5
+  },
+  {
+    "colorStatus": "SteelBlue",
+    "isActive": true,
+    "isReturnStopSheet": true,
+    "isSendToRestaurant": false,
+    "name": "Таймер",
+    "id": 6
+  },
+  {
+    "colorStatus": "MediumSeaGreen",
+    "isActive": true,
+    "isReturnStopSheet": false,
+    "isSendToRestaurant": true,
+    "name": "В работе",
+    "id": 7
+  },
+  {
+    "colorStatus": "YellowGreen",
+    "isActive": true,
+    "isReturnStopSheet": false,
+    "isSendToRestaurant": false,
+    "name": "Собран",
+    "id": 8
+  },
+  {
+    "colorStatus": "Gray",
+    "isActive": true,
+    "isReturnStopSheet": false,
+    "isSendToRestaurant": false,
+    "name": "Едет",
+    "id": 9
+  },
+  {
+    "colorStatus": "Transparent",
+    "isActive": true,
+    "isReturnStopSheet": false,
+    "isSendToRestaurant": false,
+    "name": "Доставлен",
+    "id": 10
+  },
+  {
+    "colorStatus": "Transparent",
+    "isActive": true,
+    "isReturnStopSheet": false,
+    "isSendToRestaurant": false,
+    "name": "Закрыт",
+    "id": 11
+  }
+]
